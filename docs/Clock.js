@@ -73,8 +73,8 @@ export default class Clock {
 
 		}
 
-        // return diff;
-        this.delta += diff;
+        return diff;
+        // this.delta += diff;
 
     }
     
